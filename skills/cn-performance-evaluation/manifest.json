@@ -1,0 +1,20 @@
+{
+  "name": "cn-performance-evaluation",
+  "version": "2.0",
+  "displayName": {
+    "en": "Construction Project Performance Evaluation v2.0",
+    "zh": "建设工程绩效评价 v2.0"
+  },
+  "description": {
+    "en": "Based on Government Investment Regulations and PPP Performance Management Guidelines, providing full-process performance management for construction projects.",
+    "zh": "基于《政府投资条例》和PPP绩效管理指引，提供建设项目全过程绩效管理服务。"
+  },
+  "trigger": [
+    "绩效评价", "绩效管理", "PPP绩效", "政府投资绩效", 
+    "项目后评价", "绩效目标", "绩效监控", "绩效报告"
+  ],
+  "category": "工程咨询",
+  "tags": ["绩效评价", "政府投资", "PPP", "项目管理"],
+  "author": "度量衡智库",
+  "language": "zh-CN"
+}
