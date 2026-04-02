@@ -1,3 +1,1 @@
-# Duliangheng Skills
-
-度量衡智库 OpenClaw 技能集合
+# Duliangheng Skills\n\n## 度量衡智库 OpenClaw 技能集合\n\n专注于建设工程领域的工程咨询专家技能集合，基于 GB/T 50500-2024、GB/T 50326 等国家标准。\n\n### 核心技能\n\n| 技能名称 | 版本 | 描述 |\n|---------|------|------|\n| cn-project-management | v2.0.0 | 建设工程项目管理 |\n| cn-cost-control | v2.0.0 | 全过程造价管控 |\n| cn-tendering-agent | v1.0 | 招标采购代理 |\n| construction-mediation-kg | v1.0 | 商事调解知识图谱 |\n| china-cost-estimation | v1.0 | 造价快速估算 |\n| judicial-confirmation-three-pieces | v1.0 | 司法确认三件套 |\n\n### 安装\n\n`ash\nopenclaw skill install ruiyongwang/dlh#技能名称\n`\n\n### License\n\nMIT\n
